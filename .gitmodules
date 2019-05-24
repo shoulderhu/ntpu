@@ -1,0 +1,3 @@
+[submodule "heroku-cloud-www"]
+	path = heroku-cloud-www
+	url = https://github.com/shoulderhu/heroku-cloud-www.git
