@@ -1,3 +1,6 @@
 [submodule "heroku-cloud-www"]
 	path = heroku-cloud-www
 	url = https://github.com/shoulderhu/heroku-cloud-www.git
+[submodule "android-vision-app"]
+	path = android-vision-app
+	url = https://github.com/shoulderhu/android-vision-app.git
