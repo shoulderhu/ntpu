@@ -4,3 +4,6 @@
 [submodule "android-vision-app"]
 	path = android-vision-app
 	url = https://github.com/shoulderhu/android-vision-app.git
+[submodule "azure-vision-ipy"]
+	path = azure-vision-ipy
+	url = https://github.com/shoulderhu/azure-vision-ipy.git
