@@ -7,3 +7,6 @@
 [submodule "azure-vision-ipy"]
 	path = azure-vision-ipy
 	url = https://github.com/shoulderhu/azure-vision-ipy.git
+[submodule "azure-image-ipy"]
+	path = azure-image-ipy
+	url = https://github.com/shoulderhu/azure-image-ipy.git
